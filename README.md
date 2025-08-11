@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Zustand + react-router + react-icons
+# React + TypeScript + Vite + Zustand + react-router + react-icons + mantine
 
 # AJ QUZIFY
 `yarn`

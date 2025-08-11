@@ -43,7 +43,7 @@ const categories = [
   },
   {
     icon: <IoCodeSlashSharp color="#0096FF" size={70} />,
-    title: "programming",
+    title: "Programming",
   },
 ];
 
@@ -53,7 +53,7 @@ const quizData: Record<string, QuizCategory> = {
   Science: science,
   Movies: movies,
   Technologies: technologies,
-  programming: programming,
+  Programming: programming,
 };
 
 const CategoryPage = () => {
